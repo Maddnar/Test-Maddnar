@@ -14,8 +14,8 @@ I am eager to begin my cybersecurity career in an IT support role while pursuing
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Scrape data from a website | Web Scraper |
-| Store scraped data in a MongoDB database | Web Scraper |
+| Scrape data from a website | <a href="https://github.com/Maddnar/Web-Scraperhttps://github.com/Maddnar/Web-Scraper/tree/main">Web-Scraper</a> |
+| Store scraped data in a MongoDB database | <a href="https://github.com/Maddnar/Web-Scraperhttps://github.com/Maddnar/Web-Scraper/tree/main">Web-Scraper</a> |
 | | |
 | | |
 | | |
@@ -51,5 +51,5 @@ I am eager to begin my cybersecurity career in an IT support role while pursuing
 </div>
 
 ## Projects
-- Web Scraping With Scrapy and Python
+- <a href="https://github.com/Maddnar/Web-Scraperhttps://github.com/Maddnar/Web-Scraper/tree/main">Web-Scraping with Python and Scrapy</a>
 - SOC Automation Project
