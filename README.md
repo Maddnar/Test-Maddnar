@@ -14,8 +14,8 @@ I am eager to begin my cybersecurity career in an IT support role while pursuing
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| | |
-| | |
+| Scrape data from a website | Web Scraper |
+| Store scraped data in a MongoDB database | Web Scraper |
 | | |
 | | |
 | | |
